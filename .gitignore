@@ -1,0 +1,23 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+.Python
+build/
+downloads/
+lib/
+lib64/
+share/
+bin/
+
+# Environments
+.env
+.venv
+*.cfg
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
